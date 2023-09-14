@@ -4,12 +4,11 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| RF01 |         O usuário deve poder acessar o seu progresso no jogo.        |  Alta      |      RF25   |
+| RF02 |         O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |    
+| RF03 |         O usuário deve poder ver suas conquistas.                    |  Baixa     |             |
+| RF04 |         O usuário deve poder escolher o modo e/ou a dificuldade do jogo   |  Alta    |             |
+   
 
 
 <div style="text-align: center">
