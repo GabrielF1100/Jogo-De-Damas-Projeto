@@ -4,8 +4,8 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
+| RF01 |  O usuário deve ser capaz de jogar sem internet | Produto/Usabilidade               |Média       |    RNF12             |
+| RF02 |  O executável do sistema não deve ser superior a 50 MB.     |  Produto/eficiência     |Alta        |    RF8              |
 | RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
 
 <div style="text-align: center">
