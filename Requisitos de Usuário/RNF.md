@@ -4,8 +4,8 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de jogar sem internet | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O executável do sistema não deve ser superior a 50 MB.     |  Produto/eficiência     |Alta        |    RF8              |
+| RF01 |  O usuário deve ser capaz de jogar sem internet | Produto/Usabilidade               |Média       |    RNF1             |
+| RF02 |  O executável do sistema não deve ser superior a 50 MB.     |  Produto/eficiência     |Alta        |    RNF2             |
 | RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
 
 <div style="text-align: center">
