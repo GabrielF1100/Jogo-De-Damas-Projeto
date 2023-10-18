@@ -3,7 +3,7 @@
 
 ## Checkers 
 #### Desenvolvimento Ágil, 2023, 2° semestre
-#### Gabriel Felippe Baptista - link para a conta github
+#### Gabriel Felippe Baptista - https://github.com/GabrielF1100
 #### Lorena de Oliveira Circuncisão - https://github.com/ITsL0RIS
 #### Melina Alves Gonçalves - https://github.com/mel-a8
 #### Stéffane Leal Silva Santos - https://github.com/steffaneleal
