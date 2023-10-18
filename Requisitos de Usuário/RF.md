@@ -4,10 +4,10 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |         O usuário deve poder acessar o seu progresso no jogo.        |  Alta      |      RF25   |
-| RF02 |         O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |    
-| RF03 |         O usuário deve poder ver suas conquistas.                    |  Baixa     |             |
-| RF04 |         O usuário deve poder escolher o modo e/ou a dificuldade do jogo   |  Alta    |             |
+| RF01 |        O usuário deve poder ver suas conquistas.    |  Alta      |    -  |
+| RF02 |        O usuário deve poder acessar o seu progresso no jogo.                 |  Baixa     |     RF01       |    
+| RF03 |                    O usuário deve poder acessar seu nível no jogo.     |  Baixa     |    RF02         |
+| RF04 |         O usuário deve poder escolher o modo e/ou a dificuldade do jogo   |  Alta    |        -     |
    
 
 
