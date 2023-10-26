@@ -7,7 +7,7 @@
 #### Lorena de Oliveira Circuncisão - https://github.com/ITsL0RIS
 #### Melina Alves Gonçalves - https://github.com/mel-a8
 #### Stéffane Leal Silva Santos - https://github.com/steffaneleal
-#### Checkers é um projeto inovador de desenvolvimento de um aplicativo de jogo de dama que visa promover a popularidade e o acesso ao jogo clássico de damas, oferecendo uma experiência envolvente e desafiadora. O objetivo principal do aplicativo é permitir que jogadores de todas as idades desfrutem das damas em um ambiente digital intuitivo. 
+#### Checkers é um projeto de desenvolvimento de um aplicativo de jogo de dama que visa promover a popularidade e o acesso ao jogo clássico de damas, oferecendo uma experiência envolvente e desafiadora. O objetivo principal do aplicativo é permitir que jogadores de todas as idades desfrutem das damas em um ambiente digital intuitivo. 
 
 ### Principais Funcionalidades:
 #### Jogabilidade Intuitiva: Checkers oferece uma interface de usuário amigável e jogabilidade intuitiva, tornando o jogo acessível tanto para iniciantes quanto para jogadores experientes.
