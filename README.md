@@ -5,8 +5,6 @@
 #### Desenvolvimento Ágil, 2023, 2° semestre
 #### Gabriel Felippe Baptista - https://github.com/GabrielF1100
 #### Lorena de Oliveira Circuncisão - https://github.com/ITsL0RIS
-![perfil](https://github.com/steffaneleal/Checkers-EC46C-2023.2/assets/144942694/afa7df37-6ae9-4b0c-97d9-d9cb5497f048)
-
 #### Melina Alves Gonçalves - https://github.com/mel-a8
 #### Stéffane Leal Silva Santos - https://github.com/steffaneleal
 #### Checkers é um projeto de desenvolvimento de um aplicativo de jogo de dama que visa promover a popularidade e o acesso ao jogo clássico de damas, oferecendo uma experiência envolvente e desafiadora. O objetivo principal do aplicativo é permitir que jogadores de todas as idades desfrutem das damas em um ambiente digital intuitivo. 
