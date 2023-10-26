@@ -6,6 +6,8 @@
 #### Gabriel Felippe Baptista - https://github.com/GabrielF1100
 #### Lorena de Oliveira Circuncisão - https://github.com/ITsL0RIS
 #### Melina Alves Gonçalves - https://github.com/mel-a8
+![Captura de tela 2023-10-19 190158](https://github.com/steffaneleal/Checkers-EC46C-2023.2/assets/114500626/a39cb9bf-4f36-4cde-b643-d0435bb3cd49)
+
 #### Stéffane Leal Silva Santos - https://github.com/steffaneleal
 #### Checkers é um projeto de desenvolvimento de um aplicativo de jogo de dama que visa promover a popularidade e o acesso ao jogo clássico de damas, oferecendo uma experiência envolvente e desafiadora. O objetivo principal do aplicativo é permitir que jogadores de todas as idades desfrutem das damas em um ambiente digital intuitivo. 
 
@@ -16,4 +18,3 @@
 #### Jogo Multiplayer Online: DamaMaster permite que os jogadores desafiem amigos ou jogadores aleatórios em partidas multiplayer online em tempo real.
 #### Estatísticas e Classificações: O aplicativo rastreia o progresso do jogador e oferece estatísticas detalhadas, além de classificações para competir com outros jogadores.
 #### Modo Offline: Além do modo online, o jogo também oferece um modo offline, permitindo que os jogadores pratiquem contra a inteligência artificial ou joguem com amigos em um único dispositivo.
-
